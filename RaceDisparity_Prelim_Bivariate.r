@@ -1,5 +1,4 @@
 # --------------------------------------------------------- #
-# Author:       Florence Lee (kwn5)                         #
 # Team:         CDC COVID-19 Data On-Call                   #
 # Purpose:      Respond to Representative Lee's request     #
 #               to identify Top 10 counties with the        #
